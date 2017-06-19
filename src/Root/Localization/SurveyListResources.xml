@@ -1,5 +1,45 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Resources>
+  <ResourceClass name="Ctd-SurveyList">
+    <Languages>
+      <Language cultureName="en">
+        <data name="DisplayName" xml:space="preserve">
+          <value>Survey List</value>
+        </data>
+        <data name="Description" xml:space="preserve">
+          <value>Create yout own survey!</value>
+        </data>
+      </Language>
+      <Language cultureName="hu">
+        <data name="DisplayName" xml:space="preserve">
+          <value>Kérdőív lista</value>
+        </data>
+        <data name="Description" xml:space="preserve">
+          <value>Hozza létre saját kérdőívét!!</value>
+        </data>
+      </Language>
+    </Languages>
+  </ResourceClass>
+  <ResourceClass name="Ctd-SurveyListItem">
+    <Languages>
+      <Language cultureName="en">
+        <data name="DisplayName" xml:space="preserve">
+          <value>Survey List Item</value>
+        </data>
+        <data name="Description" xml:space="preserve">
+          <value>Survey List Item created by Form</value>
+        </data>
+      </Language>
+      <Language cultureName="hu">
+        <data name="DisplayName" xml:space="preserve">
+          <value>Kérdőív</value>
+        </data>
+        <data name="Description" xml:space="preserve">
+          <value>Űrlapal létrehozott kérdőív</value>
+        </data>
+      </Language>
+    </Languages>
+  </ResourceClass>
   <ResourceClass name="SurveyList">
     <Languages>
       <Language cultureName="en">
